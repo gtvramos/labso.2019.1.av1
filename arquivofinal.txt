@@ -1,0 +1,15 @@
+arquivo
+arquivofinal.txt
+backup-gustavo
+gustavo1.txt
+gustavo29
+gustavo2.txt
+gustavo3.txt
+instrucoes.txt
+log
+pasta1
+pasta2
+pasta3
+prova1-gustavo.txt
+README.md
+ultimocomando.txt
